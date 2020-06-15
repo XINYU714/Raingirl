@@ -1,0 +1,30 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+a
+{
+    position: relative;
+    left: 0;
+    
+    color: red;
+    text-decoration: none;
+    font-size: 30px;
+    padding: 15px;
+    font-family: "Amatic SC", cursive;
+    
+}
+a:hover
+{
+    color: #FFFF4D;
+    background: #A9A9A9;
+    
+}
+.up
+{
+    padding: 15px;
+    width: 100%;
+    background: #FFFAFA;
+}
